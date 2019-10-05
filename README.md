@@ -1,1 +1,1 @@
-# testcontainer-trait
+# testcontainers-trait
